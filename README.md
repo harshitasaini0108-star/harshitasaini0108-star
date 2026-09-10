@@ -1,22 +1,47 @@
-## Hi there 👋
-# Hi 👋, I'm Harshita Saini
+# Hi 👋,
+I'm Harshita Saini
 
 🎓 B.Tech CSE (IoT) Student @ SISTec  
 💻 Learning Web Development & Data Structures in C++ / Python  
-🚀 Creator & Lead Developer of **CampusPilot**
+🚀 Passionate about building real-world software projects
 
 ---
 
 ### 🛠️ Tech Stack & Skills
+
 - **Languages:** C++, Python, HTML, CSS, JavaScript
-- **Focus Areas:** Web Development, Data Structures & Algorithms (DSA), IoT
-- **Tools & Platforms:** GitHub, VS Code, Supabase
+- **Frameworks:** Flask
+- **Database:** SQLite, SQLAlchemy
+- **Tools & Platforms:** Git, GitHub, VS Code, Render, Supabase
+- **Focus Areas:** Web Development, DSA, IoT
 
 ---
 
 ### 📌 Projects
-- **CampusPilot:** B.Tech Student Productivity & Placement Platform
+
+#### 💰 Expense Tracker (Live)
+A full-stack Flask web application for managing personal expenses.
+
+**Features:**
+- User Registration & Login
+- Budget Management
+- Add, Edit & Delete Expenses
+- Expense Search & Date Filter
+- CSV Export
+- PDF Report Export
+- Dashboard Analytics
+
+🔗 Live Demo: https://expensetracker-s4f3.onrender.com
+
+🔗 GitHub: https://github.com/harshitasaini0108-star/ExpenseTracker
 
 ---
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/harshita-saini-089811418)
+#### 🎓 CampusPilot
+B.Tech Student Productivity & Placement Platform
+
+---
+
+### 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/harshita-saini-089811418
